@@ -1,0 +1,7 @@
+# boilerplates
+
+Basic boilerplate for node app with Typescript
+
+Create a `.env` file
+
+`PORT=3000`
